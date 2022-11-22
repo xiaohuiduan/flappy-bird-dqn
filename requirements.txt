@@ -21,7 +21,7 @@ Markdown==3.2.2
 numpy==1.18.4
 oauthlib==3.1.0
 opt-einsum==3.2.1
-Pillow==7.1.2
+Pillow==9.3.0
 -e git+https://github.com/ntasfi/PyGame-Learning-Environment.git@3dbe79dc0c35559bb441b9359948aabf9bb3d331#egg=ple
 protobuf==3.12.1
 pyasn1==0.4.8
